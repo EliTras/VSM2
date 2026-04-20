@@ -1,2 +1,2 @@
 # VSM2
-VSM2 is the major updated version of the original VSM software
+VSM2 is the major updated version of the original VSM software https://github.com/EliTras/VSM
