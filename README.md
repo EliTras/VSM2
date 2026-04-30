@@ -7,3 +7,5 @@ https://github.com/EliTras/VSM
 Authors of VSM2:
 - Elisa Trasatti (original version and co-development of v2.0)
 - Francesca Silverii (co-development of v2.0)
+
+### ...coming soon!
