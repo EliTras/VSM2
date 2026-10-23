@@ -8,4 +8,4 @@ Authors of VSM2 (VSM v2.0, 2026):
 - Elisa Trasatti (original version and co-development of v2.0)
 - Francesca Silverii (co-development of v2.0)
 
-### ...coming soon!
+### Silverii et al. (2026, under review)...coming soon (hopefully!)
